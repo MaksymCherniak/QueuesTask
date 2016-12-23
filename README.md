@@ -1,0 +1,1 @@
+https://travis-ci.org/MaksymCherniak/QueuesTask.svg?branch=master
